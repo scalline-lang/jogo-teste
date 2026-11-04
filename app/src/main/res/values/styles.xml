@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/mesa</item>
+        <item name="android:statusBarColor">@color/trilho</item>
+        <item name="android:navigationBarColor">@color/trilho</item>
+    </style>
+    <color name="mesa">#173A37</color>
+    <color name="trilho">#0F2826</color>
+    <color name="ouro">#F2C14E</color>
+</resources>
